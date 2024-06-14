@@ -1,0 +1,236 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(C:\Users\LAB1\Desktop\ELA.HTML\images\240_F_724510711_HZE5jXiNLq0Eb5y7jqts7mKsMaEEHSzE.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.logo{
+    color: orange;
+    font-size: 75px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 63px;
+    margin-top: 28px;
+    font-size: 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: red;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.45 case-in-out;
+}
+ul li a:hover{
+    color: orange;
+}
+.search{
+    width: 300px;
+    float: left;
+    margin-left: 290px;
+}
+.srch{
+    font-family: 'Times New Roman';
+    width: 200px;
+    height: 30px;
+    background: transparent;
+    border: 1px solid orangered;
+    margin-top: 13px;
+    color: white;
+    border-right: none;
+    font-size: 16px;
+    float: left;
+    padding: 10px;
+    border-bottom-left-radius: 3px;
+   border-top-left-radius: 3px;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    background: green;
+    border: 2px solid orchid;
+    margin-top: 13px;
+    color: aqua;
+    font-size: 15px;
+    border-bottom-right-radius: 3px;
+    border-bottom-right-radius: 4px;
+}
+.btn:focus{
+    outline: none;
+}
+.srch:focus{
+    outline: none;
+}
+.Contact{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;position: relative;
+}
+.Contact .par{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+}
+.Contact h1{
+font-family: 'Times New Roman';
+font-size: 50px;
+padding-left: 20px;
+margin-top: 10px;
+letter-spacing: 2px;
+
+}
+.Contact .cn{
+    width: 160px;
+    height: 40px;
+    background: orange;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s case;
+}
+.Contact .cn a{
+    text-decoration: none;
+color: black;
+transition: .3s case;
+}
+.cn:hover{
+    background-color: white;
+}
+.Contact span{
+    color: aqua;
+    font-size: 60px;
+}
+.form{
+    width: 250px;
+    height: 400px;
+    background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+    position: absolute;
+    top: 450px;
+    left: 1000px;
+    border-radius: 10px;
+    padding: 25px;
+
+}
+.form h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+}
+.form input{
+    width: 200px;
+    height: 35px;
+    background: transparent;
+    border: 1px solid orangered;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: chartreuse;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+.form input:focus{
+    outline: none;
+
+}
+::placeholder{
+    color: aliceblue;
+    font-family: Arial;
+
+}
+.btrn{
+    width: 240px;
+    height: 40px;
+background: orange;
+border: none;
+margin-top: 30px;
+font-size: 18px;
+border-radius: 10px;
+cursor: pointer;
+color: gainsboro;
+transition: .4s case;
+}
+.btrn:hover{
+    background-color: aliceblue;
+    color: aqua;
+}
+.btrn a{
+text-decoration: none;
+color: black;
+font-weight: bold;
+}
+.form .link{
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+padding-top: 20px;
+text-align: center;
+}
+.form .link a{
+    text-decoration: none;
+    color: orange;
+}
+.liw{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.icons{
+    text-decoration: none;
+    color: antiquewhite;
+}
+.icon ion-icon{
+    color: aqua;
+    font-size: 25px;
+    padding-left: 14px;
+    padding-top: 5px;
+}
+
+
+
+
+
+

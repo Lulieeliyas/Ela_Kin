@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.mam{
+    width: 100%;
+    height: 20px;
+    text-transform: capitalize;
+    text-decoration: none;
+    background: linear-gradient(to top,rgba(255,0,25.5)50%,rgba(233, 13, 13, 0.5)50%)url(C:\Users\hp\Desktop\newpage\images\240_F_724510711_HZE5jXiNLq0Eb5y7jqts7mKsMaEEHSzE.jpg);
+    background-size: cover;
+    
+}
